@@ -25,7 +25,9 @@ html{
     scroll-padding-top: 5.5rem;
     scroll-behavior: smooth;
 }
-
+.margintop{
+    margin-top:80px;
+}
 section{
     padding:2rem 9%;
 }
@@ -606,38 +608,6 @@ header .icons #menu-bars{
     top:-110%;
     opacity:0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* media queries  */
